@@ -14,8 +14,8 @@
 9. it will generate a file named "parsedfile.txt" in the same directory
 
 # Example
-gcc fileparser.c -o "executableName"
-./"executableName" filename.txt ; \n 1
+1. gcc fileparser.c -o "executableName"
+2. ./"executableName" filename.txt ; \n 1
 
 # TODO
 - add more parsing options like finding a string and then replacing with a string
